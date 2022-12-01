@@ -1,6 +1,6 @@
 # MODIFICATION DEPUIS LE CLONE
 
-lisez-moi
+lisez-moi attentivement
 
 # MODIFICATION DEPUIS L'ORIGINAL
 
